@@ -7,7 +7,7 @@
   padding: 20px 20px 0px 0px;
   float: right;
   width: 1200px;
-  display: inline;
+  display: inline-block;
   font-size: 30px;
   font-style: roboto;
   background-color: #A1CDA8;
@@ -18,7 +18,7 @@
   padding: 0px 0px 20px 20px;
   text-align: left;
   width: 1200px;
-  display: inline;
+  display: inline-block;
   float: left;
   background-color: #A1CDA8;
 
