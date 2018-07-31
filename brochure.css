@@ -13,12 +13,13 @@ html, body {
   background-color: #A1CDA8;
   text-align: right;
   padding: 20px 20px 0px 0px;
-  display: inline;
+  float: right;
 }
 
 #quote {
   padding: 0px 0px 20px 20px;
   text-align: left;
+  float: left; 
 }
 /* ======= clearfix ======= */
 .clearfix:after {
