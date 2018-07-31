@@ -4,6 +4,7 @@
   padding: 20px 20px 0px 0px;
   float: right;
   width: 1200px;
+  display: inline;
 }
 
 #title {
@@ -13,5 +14,6 @@
 #quote {
   padding: 0px 0px 20px 20px;
   text-align: left;
-  width: 1920px
+  width: 1200px;
+  display: inline;
 }
