@@ -28,6 +28,6 @@ html, body {
   background-color: #AD9BAA;
   word-spacing: 40px;
   line-height: 40px;
-  float: none;
+  clear: both;
 
 }
