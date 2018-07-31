@@ -8,6 +8,11 @@ html, body {
 * {
   box-sizing: border-box;
 }
+
+.header {
+  background-color: #A1CDA8;
+  
+}
 /* ======= clearfix ======= */
 .clearfix:after {
     content: ".";
