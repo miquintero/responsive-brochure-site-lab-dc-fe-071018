@@ -13,6 +13,7 @@ html, body {
   float: left;
   font-style: normal;
   font: 1.2em "Roboto", sans-serif;
+  margin: 20px;
 }
 
 .quote {
