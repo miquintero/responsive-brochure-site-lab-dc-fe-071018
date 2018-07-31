@@ -7,6 +7,10 @@ html, body {
     width: 1200px;
   }
 
+.header {
+  background-color: #C5E7E2;
+}
+
 .title {
   padding: 20px 20px 20px 20px;
   font-size: 30px;
