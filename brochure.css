@@ -9,6 +9,7 @@ html, body {
 
 .header {
   background-color: #C5E7E2;
+  height: 50px; 
 }
 
 .title {
