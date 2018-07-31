@@ -24,6 +24,7 @@ html, body {
 
 .bar {
   text-align: center;
+  padding: 10px 0px 0px 0px;
   background-color: #AD9BAA;
   word-spacing: 40px;
   height: 40px;
