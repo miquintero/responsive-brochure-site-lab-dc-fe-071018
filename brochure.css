@@ -10,6 +10,8 @@
   display: inline;
   font-size: 30px;
   font-style: roboto;
+  background-color: #A1CDA8;
+
 }
 
 .quote {
@@ -18,4 +20,6 @@
   width: 1200px;
   display: inline;
   float: left;
+  background-color: #A1CDA8;
+
 }
