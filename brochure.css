@@ -4,6 +4,8 @@ html, body {
     margin: 0;
     padding: 0;
     background-color: #A1CDA8;
+    font-style: normal;
+    font: 1.2em "Roboto", sans-serif;
   }
 
 .title {
