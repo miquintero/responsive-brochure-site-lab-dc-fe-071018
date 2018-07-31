@@ -5,6 +5,8 @@
   float: right;
   width: 1200px;
   display: inline;
+  font-size: 30px;
+  font-style: roboto; 
 }
 
 .title {
