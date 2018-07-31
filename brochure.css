@@ -10,7 +10,7 @@ html, body {
 .header {
   background-color: #C5E7E2;
   height: 200px;
-  width: 1200px;
+  width: 100%;
 }
 
 .title {
@@ -39,5 +39,5 @@ html, body {
 }
 
 .pic {
-  margin: auto 0; 
+  margin: auto 0;
 }
