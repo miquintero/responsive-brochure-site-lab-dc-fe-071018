@@ -23,7 +23,7 @@ html, body {
 }
 
 .bar {
-  text-align: left;
+  padding: 0px 0px 0px 60px;
   background-color: #AD9BAA;
   word-spacing: 20px;
 
