@@ -10,7 +10,7 @@ html, body {
 .header {
   background-color: #C5E7E2;
   height: 200px;
-  width: 1200px; 
+  width: 1200px;
 }
 
 .title {
@@ -36,5 +36,8 @@ html, body {
   height: 40px;
   clear: both;
   font: 1.2em "Roboto", sans-serif;
+}
 
+.pic {
+  align-content: center; 
 }
