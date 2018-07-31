@@ -4,7 +4,6 @@
   padding: 20px 20px 20px 20px;
   float: left;
   width: 1200px;
-  display: inline-block;
   font-size: 30px;
   font-style: roboto;
   background-color: #A1CDA8;
@@ -14,7 +13,6 @@
 .quote {
   padding: 0px 0px 20px 20px;
   width: 1200px;
-  display: inline-block;
   background-color: #A1CDA8;
 
 }
