@@ -24,5 +24,6 @@ html, body {
 
 .bar {
   background-color: #AD9BAA;
-  line-height: 10
+  word-spacing: 5px;
+
 }
