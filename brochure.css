@@ -13,10 +13,10 @@ html, body {
   float: left;
   font-style: normal;
   font: 1.2em "Roboto", sans-serif;
-  margin: 20px;
 }
 
 .quote {
   padding: 0px 0px 20px 20px;
   text-align: right;
+  margin: 20px;
 }
