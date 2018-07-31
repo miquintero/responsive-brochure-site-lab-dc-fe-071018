@@ -1,4 +1,4 @@
-.header {
+.title {
   background-color: #A1CDA8;
   text-align: right;
   padding: 20px 20px 0px 0px;
@@ -6,7 +6,7 @@
   width: 1200px;
   display: inline;
   font-size: 30px;
-  font-style: roboto; 
+  font-style: roboto;
 }
 
 .title {
