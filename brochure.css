@@ -42,8 +42,8 @@ html, body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 320px
-  height: 400px
+  width: 320px;
+  height: 400px;
   float: left;
   border: 10px solid #B5DFCA;
 }
