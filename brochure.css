@@ -42,9 +42,10 @@ html, body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 320px
+  height: 400px
   float: left;
-  border: 1px solid #B5DFCA;
+  border: 10px solid #B5DFCA;
 }
 
 .list {
